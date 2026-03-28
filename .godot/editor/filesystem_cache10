@@ -1,0 +1,17 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1774739324
+icon.svg::CompressedTexture2D::2096767245852834773::1774445176::1774445179::1::::<><><>0<>0<>a954ef64bd87b27e3e1124dc50ebed7f<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://Assets/::1774739308
+landing_pad.gd::GDScript::2957640943201552833::1774624650::0::1::::<>CSGBox3D<><>0<>0<><>::
+moving_hazard.gd::GDScript::5942762301762805877::1774700842::0::1::::<>AnimatableBody3D<><>0<>0<><>::
+moving_hazard.tscn::PackedScene::6387364227300447570::1774739308::0::1::::<><><>0<>0<><>::uid://cqwyorpmrs718::::res://Assets/moving_hazard.gd
+player.gd::GDScript::6750779323870014036::1774618339::0::1::::<>RigidBody3D<><>0<>0<><>::
+player.tscn::PackedScene::4536717201599309258::1774704658::0::1::::<><><>0<>0<><>::uid://cp4rh6ycg2sy0::::res://audio/mixkit-arcade-retro-game-over-213.wav<>uid://df6qpk6jt13rt::::res://audio/mixkit-retro-game-notification-212.wav
+::res://audio/::1774702213
+mixkit-arcade-retro-game-over-213.wav::AudioStreamWAV::5886587331657917705::1774700530::1774701892::1::::<><><>0<>0<>510a53057f5bb710a12a1a2f601751d7<>res://.godot/imported/mixkit-arcade-retro-game-over-213.wav-c5b13bc8c968579c03b4a336c76dcc7f.sample::
+mixkit-retro-game-notification-212.wav::AudioStreamWAV::7575200811995957413::1774700408::1774701892::1::::<><><>0<>0<>5ce83458e97b2ef7875b8f6f6a835054<>res://.godot/imported/mixkit-retro-game-notification-212.wav-3b90db9b58e42da6e48308071ab62dde.sample::
+::res://Levels/::1774739138
+level.tscn::PackedScene::2680539352906511090::1774739138::0::1::::<><><>0<>0<><>::uid://biex6c3oepp5r::::res://Assets/landing_pad.gd<>uid://b5vvcmle4nqtm::::res://Assets/player.tscn
+level_2.tscn::PackedScene::5764513840294767794::1774739138::0::1::::<><><>0<>0<><>::uid://biex6c3oepp5r::::res://Assets/landing_pad.gd<>uid://b5vvcmle4nqtm::::res://Assets/player.tscn
+level_3.tscn::PackedScene::5570044056990065074::1774739138::0::1::::<><><>0<>0<><>::uid://biex6c3oepp5r::::res://Assets/landing_pad.gd<>uid://b5vvcmle4nqtm::::res://Assets/player.tscn
+level_4.tscn::PackedScene::7690442032783685579::1774739138::0::1::::<><><>0<>0<><>::uid://biex6c3oepp5r::::res://Assets/landing_pad.gd<>uid://b5vvcmle4nqtm::::res://Assets/player.tscn<>uid://cxac7qxu2c8y5::::res://Assets/moving_hazard.tscn
